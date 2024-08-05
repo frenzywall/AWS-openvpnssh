@@ -1,5 +1,4 @@
-markdown
-Copy code
+
 # AWS Account Setup and VPN Access Using OpenVPN
 
 ## Table of Contents
